@@ -173,4 +173,6 @@ persistedZoned.toLocaleString('en-CA')
 
 # Source:
 
-- <https://github.com/neenjaw/temporal-presentation>
+- TC39: <https://tc39.es/proposal-temporal/docs/index.html>
+- Marp (Markdown => Slides): <https://marp.app>
+- Github repo: <https://github.com/neenjaw/temporal-presentation>
